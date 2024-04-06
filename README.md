@@ -1,3 +1,3 @@
 # CSE425-AI
 
-Course CSE425
+Course CSE425 - Codes written for Artificial Intelligence course (CSE425).
